@@ -1,4 +1,4 @@
-markdown: redcarpet
-baseurl: /Dhaval_portfolio
-theme: jekyll-theme-cayman
-exclude: ['README.md']
+markdown: redcarpet # this is to make sure that markdown uses same interpreter as github
+baseurl: /Dhaval_portfolio  #to explisitly tell where to look for or save the modified files for website
+theme: jekyll-theme-cayman  #tell explicitly what kind of theme do you like in jekyll
+exclude: ['README.md']      # you can add this option to ignore particular files or folders to not to read

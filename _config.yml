@@ -1,1 +1,4 @@
+markdown: redcarpet
+baseurl: /Dhaval_portfolio
 theme: jekyll-theme-cayman
+exclude: ['README.md']
